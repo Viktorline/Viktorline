@@ -29,42 +29,42 @@
 
 ---
 
-#### My Pet Projects:
+### My Pet Projects:
 
-<h5>
+<h4>
    <a href=https://github.com/Viktorline/weather-forecast-vue>Weather Forecast Vue</a>: A weather forecast app built with Vue (sass, vue, api).
-</h5>  
-<h5>
+</h4>  
+<h4>
    <a href=https://github.com/Viktorline/qr-code-generator>QR Code Generator</a>: A QR generator with click-and-copy functionality (api, webpack, yup).
-</h5>
+</h4>
 
-#### Test Tasks:
+### Test Tasks:
 
-<h5>
+<h4>
   <a href=https://github.com/Viktorline/currency-converter>Currency Converter</a>: A simple currency converter (react, redux, Ant Design UI, api, sass).
-</h5>
-<h5>
+</h4>
+<h4>
   <a href=https://github.com/Vox1oot/vending-machine>ToDo List</a>: A basic ToDo app (react, reactjs, react-bootstrap).
-</h5>
+</h4>
 
-#### Projects with Hexlet :
+### Projects with Hexlet :
 
-<h5>
+<h4>
     <a href=https://github.com/Vox1oot/frontend-project-12>Slack-like Chat</a>: A web messenger similar to Slack (react, redux, react-router, websocket, react-bootstrap, ajax).
-</h5>
-<h5>
+</h4>
+<h4>
     <a href=https://github.com/Vox1oot/frontend-project-lvl3>RSS Aggregator</a>: An RSS reader with support for multiple channel subscriptions (bootstrap, webpack, mvc, axios, yup).
-</h5>                                        
-<h5>
+</h4>                                        
+<h4>
     <a href=https://github.com/Vox1oot/frontend-project-lvl2>Difference Calculator</a>: Shows the difference between two JSON/YML files (js, json, yml).
-</h5>
-<h5>
+</h4>
+<h4>
     <a href=https://github.com/Vox1oot/frontend-project-lvl1>Brain Games</a>: A collection of five console games (js, readline-sync).
-</h5>
+</h4>
 
 ---
 
-#### Contacts:
+### Contacts:
 
-<h5>Telegram: <a href=https://t.me/victor_murzzz>@victor_murzzz</a></h5>
-<h5>Email: <a href="mailto:viktormurzinwork@gmail.com">viktormurzinwork@gmail.com</a></h5>
+<h4>Telegram: <a href=https://t.me/victor_murzzz>@victor_murzzz</a></h4>
+<h4>Email: <a href="mailto:viktormurzinwork@gmail.com">viktormurzinwork@gmail.com</a></h4>
